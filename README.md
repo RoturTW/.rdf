@@ -1,6 +1,6 @@
-RDL is a type restricted data storage format with inspirations from pkl.
+RDF (rotur data format) is a type restricted data storage format with inspirations from pkl.
 
-Imagine if pkl, and osl formatting had a child, you would have rdl.
+Imagine if pkl, and osl formatting had a child, you would have rdf.
 
 ```js
 {
