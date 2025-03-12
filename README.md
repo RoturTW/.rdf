@@ -8,7 +8,7 @@ Imagine if pkl, and osl formatting had a child, you would have rdf.
     object job = {
         title = "Sr. Nest Maker";
         company = "Nests R Us";
-        number yearsOfExperience = 2 where self > 1;
+        number yearsOfExperience = 2 where value > 1;
     }
 }
 ```
