@@ -16,7 +16,7 @@ Imagine if pkl, and osl formatting had a child, you would have rdf.
 ```js
 {
   array<number> (self > 0) numbers = []
-  # array of numbers greater than 1
+  # array of numbers greater than 0
 }
 ```
 
