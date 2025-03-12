@@ -8,8 +8,15 @@ Imagine if pkl, and osl formatting had a child, you would have rdf.
     object job = {
         title = "Sr. Nest Maker";
         company = "Nests R Us";
-        number(self > 1) yearsOfExperience = 2
+        number yearsOfExperience = 2 where value > 1;
     }
+}
+```
+
+```js
+{
+  array<number> numbers = [] where each > 0;
+  # array of numbers greater than 0
 }
 ```
 
