@@ -13,4 +13,11 @@ Imagine if pkl, and osl formatting had a child, you would have rdf.
 }
 ```
 
+```js
+{
+  array<number> (self > 0) numbers = []
+  # array of numbers greater than 1
+}
+```
+
 Optional typing and constraints built right in to the language will allowing you to interact with it through a simple js dot notations.
