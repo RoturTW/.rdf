@@ -20,4 +20,5 @@ Imagine if pkl, and osl formatting had a child, you would have rdf.
 }
 ```
 
-Optional typing and constraints built right in to the language will allowing you to interact with it through a simple js dot notations.
+Optional typing and constraints are built right in to the language.
+You can interact with rdf the same as any js object, you just have to handle errors from invalid data.
